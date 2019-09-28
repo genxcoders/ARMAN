@@ -1,0 +1,42 @@
+<?php require_once( '../couch/cms.php' ); ?>
+<cms:template title='Generate SOS - JSON' parent="_test_" />
+<cms:content_type 'application/json'/>
+{
+	"SOS-Details":
+	[
+		<cms:pages masterpage="generate-sos.php" id=rt_id show_future_entries='1' >
+		{
+			"sosId":"<cms:show k_page_id />",
+			"sostitle":"<cms:addslashes><cms:show k_page_title /></cms:addslashes>",
+			"sosimage":
+			[
+				{
+					"image":"<cms:addslashes><cms:show_securefile 'ipt_disaster_image'><cms:securefile_link file_id /></cms:show_securefile></cms:addslashes>"
+				}
+			],
+			"soslat":"<cms:addslashes><cms:show ipt_lati/></cms:addslashes>",
+			"soslong":"<cms:addslashes><cms:show ipt_longi /></cms:addslashes>",
+			"sosdesc":"<cms:addslashes><cms:show ipt_desc /></cms:addslashes>",
+			"helpline":
+			[
+				<cms:pages masterpage="helpline.php">
+                {
+                    "helper": "<cms:addslashes><cms:show k_page_title /></cms:addslashes>",
+                    "contact": "<cms:addslashes><cms:show ipt_hlp_number /></cms:addslashes>"
+                }<cms:if "<cms:not k_paginated_bottom />">, </cms:if>
+            	</cms:pages>
+            ],
+            "onsite":
+            [
+            	<cms:pages masterpage=k_user_template>
+            	{
+            		"authority": "<cms:addslashes><cms:show ipt_emp_fname /> <cms:show ipt_emp_lname /></cms:addslashes>",
+                    "contact": "<cms:addslashes><cms:show ipt_emp_mobile_number /></cms:addslashes>"
+            	}<cms:if "<cms:not k_paginated_bottom />">, </cms:if>
+            	</cms:pages>
+            ]
+		}<cms:if "<cms:not k_paginated_bottom />">, </cms:if>
+		</cms:pages>
+	]
+}
+<?php COUCH::invoke(); ?>

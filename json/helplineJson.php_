@@ -1,0 +1,27 @@
+<?php require_once( '../couch/cms.php' ); ?>
+<cms:if k_logged_out >
+    <cms:redirect "<cms:login_link />" />
+</cms:if>
+<cms:template title='Helpline - JSON' />
+<cms:content_type 'application/json'/>
+{
+	"helpline":
+	[
+        {
+            <cms:folders masterpage='project.php' hierarchical='1'>
+            "<cms:show k_folder_title />":
+            [
+        		<cms:pages masterpage="helpline.php" folder=k_folder_name >
+                {
+                    "helper": "<cms:addslashes><cms:show k_page_title /></cms:addslashes>",
+                    "contact": "<cms:addslashes><cms:show ipt_hlp_number /></cms:addslashes>"
+                }<cms:if "<cms:not k_paginated_bottom />">, </cms:if>
+            	</cms:pages>
+            ]
+            </cms:folders>
+        }
+    ]
+}
+
+<?php COUCH::invoke(); ?>
+

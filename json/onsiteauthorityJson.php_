@@ -1,0 +1,19 @@
+<?php require_once( '../couch/cms.php' ); ?>
+<cms:if k_logged_out >
+    <cms:redirect "<cms:login_link />" />
+</cms:if>
+<cms:template title='Onsite Authority - JSON' />
+<cms:content_type 'application/json'/>
+{
+	"onsite":
+        [
+        	<cms:pages masterpage=k_user_template>
+        	{
+        		"authority": "<cms:addslashes><cms:show ipt_emp_fname /> <cms:show ipt_emp_lname /></cms:addslashes>",
+                "contact": "<cms:addslashes><cms:show ipt_emp_mobile_number /></cms:addslashes>"
+        	}<cms:if "<cms:not k_paginated_bottom />">, </cms:if>
+        	</cms:pages>
+        ]
+}
+
+<?php COUCH::invoke(); ?>
