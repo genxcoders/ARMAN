@@ -1,0 +1,7 @@
+[11-Aug-2019 09:39:30 America/New_York] PHP Warning:  require_once(loginClass.php): failed to open stream: No such file or directory in /home/genxcode/public_html/demo/ARMAN/rest/receiveFIR.php on line 2
+[11-Aug-2019 09:39:30 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'loginClass.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/genxcode/public_html/demo/ARMAN/rest/receiveFIR.php on line 2
+[11-Aug-2019 10:40:36 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/genxcode/public_html/demo/ARMAN/rest/loginClass.php on line 60
+[11-Aug-2019 10:40:48 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/genxcode/public_html/demo/ARMAN/rest/loginClass.php on line 60
+[11-Aug-2019 10:43:36 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/genxcode/public_html/demo/ARMAN/rest/loginClass.php on line 60
+[11-Aug-2019 11:40:06 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/genxcode/public_html/demo/ARMAN/rest/loginClass.php on line 60
+[11-Aug-2019 11:42:06 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/genxcode/public_html/demo/ARMAN/rest/loginClass.php on line 60

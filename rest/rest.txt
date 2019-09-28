@@ -1,0 +1,25 @@
+LOGIN	:	http://localhost/GenXCoders-CTO/DMA-Design/json/loginJSON.php
+SOS	:	1.	http://localhost/GenXCoders-CTO/DMA-Design/rest/allsosJSON.php
+		2.	http://localhost/GenXCoders-CTO/DMA-Design/rest/allsosJSON.php?sosid=143
+Helpline	:	1.	http://localhost/GenXCoders-CTO/DMA-Design/rest/helplineJSON.php
+		2.	http://localhost/GenXCoders-CTO/DMA-Design/rest/helplineJSON.php?hlid=99
+
+
+
+
+
+https://genxcoders.in/demo/crdma/rest/loginAPI.php
+                                            demo/crdma/rest/loginAPI.php
+
+
+ARMAN:
+
+1. Login:		https://genxcoders.in/demo/ARMAN/rest/loginAPI.php?username=user@arman.com&password=123456&fcmid=etiFOBoFfSw:APA91bFyPn6pTxLY4nL0HUz4HXuO7EwyzLiOATAZ2mJcsJ78Faegu-qFaFFPslA1tKC9fjPWq8H89z3VGpX36AhYL6tIN-vr1qpv1C2hKMSbgD1HepKQi-0FUhyRuF_ri8Pt4qxIuOxQ
+
+2. All FIR List:	https://genxcoders.in/demo/ARMAN/rest/allfirJSON.php?userid=38&hashTokencheck=4d615642376842545a3365376456656f56705868
+
+3. FIR Single:	https://genxcoders.in/demo/ARMAN/rest/allfirJSON.php?userid=38&hashTokencheck=4d615642376842545a3365376456656f56705868&firid=2043
+
+4. All SOS List:	https://genxcoders.in/demo/ARMAN/rest/allsosJSON.php?userid=38&hashTokencheck=6d5975726c4c516d51425244564e766a734b6555
+
+5. Single SOS:	https://genxcoders.in/demo/ARMAN/rest/allsosJSON.php?userid=38&hashTokencheck=6d5975726c4c516d51425244564e766a734b6555&sosid=2039

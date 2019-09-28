@@ -1,0 +1,25 @@
+<?php require_once( '../couch/cms.php' ); ?>
+<cms:template title='Generate SOS - JSON' />
+<cms:content_type 'application/json'/>
+<cms:set userid="<cms:gpc 'userid' method='get' />" />
+<cms:if k_logged_in>
+	<cms:pages masterpage=k_user_template id=userid limit='1'>
+	{
+		"status":"200",
+		"message":"OK",
+		"data": {
+			"userId":"<cms:show k_user_id />",
+			"userphoto":"<cms:if ipt_emp_photo><cms:show_securefile 'ipt_emp_photo'><cms:if file_is_image ><cms:securefile_link file_id /></cms:if></cms:show_securefile><cms:else />NA</cms:if>",
+			"name":"<cms:show ipt_emp_fname /> <cms:show ipt_emp_lname />",
+			"designation":"<cms:related_pages 'ipt_emp_designation' ><cms:show k_page_title /></cms:related_pages>"
+		}
+	}<cms:if "<cms:not k_paginated_bottom />" >,</cms:if>
+	</cms:pages>
+<cms:else />
+	{
+		"status":"412",
+		"message":"Precondition Failed",
+		"data": "Users needs to Login"
+	}
+</cms:if>
+<?php COUCH::invoke(); ?>
