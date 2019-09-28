@@ -1,0 +1,35 @@
+BASE 64 String For Image:
+<cms:pages masterpage='upload-image.php' limit='1'>
+	<cms:set b64_img="<cms:show_securefile 'ref_image' ><cms:securefile_link file_id /></cms:show_securefile>" />
+	<cms:php>
+		global $b64_img;
+		global $b64_data;
+		$b64_img = file_get_contents('<cms:show b64_img />');
+		$b64_data = base64_encode($b64_img);
+		echo $b64_data;
+	</cms:php>
+</cms:pages>
+
+// To view use: 
+// data:image/png;base64,$b64_data
+
+
+
+
+
+<cms:pages masterpage='tracking/trackJSON.php' id="<cms:reverse_related_pages '<cms:show sos_id_for_chat_track />' masterpage='tracking/track.php'><cms:show k_page_id /></cms:reverse_related_pages>" custom_field="sosid=<cms:reverse_related_pages '<cms:show sos_id_for_chat_track />' masterpage='tracking/track.php'><cms:show k_page_id /></cms:reverse_related_pages>" >
+					<cms:if status eq '1'>
+		        	{
+		                placeName:"<cms:related_pages 'userid'><cms:show ipt_emp_fname /> <cms:show ipt_emp_lname /></cms:related_pages>",
+		                mobile:"<cms:related_pages 'userid'><cms:show ipt_emp_mobile_number /></cms:related_pages>",
+		                department:"<cms:related_pages 'userid'><cms:related_pages 'ipt_emp_department'><cms:show k_page_title /></cms:related_pages></cms:related_pages>",
+		                type: 'info',
+		                sosid: "<cms:related_pages 'sosid' ><cms:show k_page_id /></cms:related_pages>",
+		                LatLng: [{
+		                    lat: <cms:show user_latitude />,
+		                    lng: <cms:show user_longitude />
+		                }]
+		            }</cms:if><cms:if "<cms:not k_paginated_bottom />">,</cms:if>
+		        	</cms:pages>
+
+		        	//footer #65

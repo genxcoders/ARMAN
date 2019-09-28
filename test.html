@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<title>Proper Title</title>
+<style>
+	#selectedFiles img {
+		max-width: 125px;
+		max-height: 125px;
+		float: left;
+		margin-bottom:10px;
+	}
+</style>
+</head>
+    
+<body>
+	
+	<form id="myForm" method="post" enctype="multipart/form-data">
+
+        Files: <input type="file" id="files" name="files" multiple accept="image/*"><br/>
+
+        <div id="selectedFiles"></div>
+
+        <input type="submit">
+	</form>
+
+	<script>
+	var selDiv = "";
+		
+	document.addEventListener("DOMContentLoaded", init, false);
+	
+	function init() {
+		document.querySelector('#files').addEventListener('change', handleFileSelect, false);
+		selDiv = document.querySelector("#selectedFiles");
+	}
+		
+	function handleFileSelect(e) {
+		
+		if(!e.target.files || !window.FileReader) return;
+
+		selDiv.innerHTML = "";
+		
+		var files = e.target.files;
+		var filesArr = Array.prototype.slice.call(files);
+		filesArr.forEach(function(f) {
+			var f = files[i];
+			if(!f.type.match("image.*")) {
+				return;
+			}
+
+			var reader = new FileReader();
+			reader.onload = function (e) {
+				var html = "<img src=\"" + e.target.result + "\">" + f.name + "<br clear=\"left\"/>";
+				selDiv.innerHTML += html;				
+			}
+			reader.readAsDataURL(f); 
+		});
+		
+	}
+	</script>
+	<UL><LI><b><font color="red">__ROOT__</font></b><UL><LI><b>k_user_id: </b>4</LI><LI><b>k_user_name: </b>genxcoders</LI><LI><b>k_user_title: </b>genxcoders</LI><LI><b>k_user_email: </b>aashish@genxcoders.in</LI><LI><b>k_user_access_level: </b>10</LI><LI><b>k_user_disabled: </b>0</LI><LI><b>k_logged_in: </b>1</LI><LI><b>k_logout_link: </b>http://localhost/GenXCoders-CTO/ARMAN/users/login.php?act=logout&nonce=1432571e59ab28e834945f349fa5f0a2&redirect=%2FGenXCoders-CTO%2FARMAN%2Fselect-sos.php%3Fq%3D2315%2Fpageview</LI><LI><b>k_user_edit_link: </b>http://localhost/GenXCoders-CTO/ARMAN/couch/?o=users&q=edit/c1831394ccbeb621eec0d817a18238da/1</LI><LI><b>k_extended_user_id: </b>1</LI><LI><b>k_user_template: </b>users/index.php</LI><LI><b>k_user_login_template: </b>users/login.php</LI><LI><b>k_user_lost_password_template: </b>users/lost-password.php</LI><LI><b>k_user_registration_template: </b>users/register.php</LI><LI><b>k_cms_version: </b>2.2RC1</LI><LI><b>k_cms_build: </b>20181213</LI><LI><b>k_admin_link: </b>http://localhost/GenXCoders-CTO/ARMAN/couch/</LI><LI><b>k_admin_page: </b></LI><LI><b>k_site_link: </b>http://localhost/GenXCoders-CTO/ARMAN/</LI><LI><b>k_admin_path: </b>D:/wamp64/www/GenXCoders-CTO/ARMAN/couch/</LI><LI><b>k_site_path: </b>D:/wamp64/www/GenXCoders-CTO/ARMAN/</LI><LI><b>k_template_routable: </b>1</LI><LI><b>k_template_title: </b>Select SOS Receivers</LI><LI><b>k_template_name: </b>select-sos.php</LI><LI><b>k_template_id: </b>97</LI><LI><b>k_template_is_clonable: </b>1</LI><LI><b>k_template_desc: </b></LI><LI><b>k_template_access_level: </b>0</LI><LI><b>k_template_is_commentable: </b>0</LI><LI><b>k_template_is_executable: </b>1</LI><LI><b>k_template_is_hidden: </b>0</LI><LI><b>k_template_order: </b>4</LI><LI><b>k_template_nested_pages: </b>0</LI><LI><b>k_template_gallery: </b>0</LI><LI><b>k_template_type: </b></LI><LI><b>k_template_link: </b>http://localhost/GenXCoders-CTO/ARMAN/select-sos.php</LI><LI><b>k_prettyurls: </b>0</LI><LI><b>k_site_charset: </b>utf-8</LI><LI><b>k_email_from: </b>genxcoders@gmail.com</LI><LI><b>k_email_to: </b>genxcoders@gmail.com</LI><LI><b>k_is_commentable: </b>0</LI><LI><b>k_is_list_page: </b>0</LI><LI><b>k_is_list: </b>1</LI><LI><b>k_is_page: </b>0</LI><LI><b>k_is_home: </b>1</LI><LI><b>k_folder_pagecount: </b>2</LI><LI><b>k_folder_totalpagecount: </b>2</LI><LI><b>k_folder_immediate_children: </b>0</LI><LI><b>k_folder_totalchildren: </b>0</LI><LI><b>k_page_link: </b>http://localhost/GenXCoders-CTO/ARMAN/select-sos.php</LI><LI><b>k_theme_link: </b></LI><LI><b>k_system_theme_link: </b>http://localhost/GenXCoders-CTO/ARMAN/couch/theme/_system/</LI><LI><b>k_theme_path: </b></LI><LI><b>k_system_theme_path: </b>D:/wamp64/www/GenXCoders-CTO/ARMAN/couch/theme/_system/</LI><LI><b>k_theme_name: </b></LI><LI><b>k_cur_token: </b>3f70e41d01832c1c733b33ffcbfcfede</LI><LI><b>prhl_count: </b>3</LI><LI><b>k_matched_route: </b>page_view_select_sos</LI><LI><b>rt_id: </b>2315</LI><LI><b>latitude: </b>20.73428091</LI><LI><b>longitude: </b>78.60489982</LI><LI><b>sosid_tracking: </b>2318</LI></UL></LI><LI><b><font color="red">pages</font></b><UL><LI><b>k_cms_version: </b>2.2RC1</LI><LI><b>k_cms_build: </b>20181213</LI><LI><b>k_admin_link: </b>http://localhost/GenXCoders-CTO/ARMAN/couch/</LI><LI><b>k_admin_page: </b></LI><LI><b>k_site_link: </b>http://localhost/GenXCoders-CTO/ARMAN/</LI><LI><b>k_admin_path: </b>D:/wamp64/www/GenXCoders-CTO/ARMAN/couch/</LI><LI><b>k_site_path: </b>D:/wamp64/www/GenXCoders-CTO/ARMAN/</LI><LI><b>k_template_routable: </b>1</LI><LI><b>k_template_title: </b>Select SOS Receivers</LI><LI><b>k_template_name: </b>select-sos.php</LI><LI><b>k_template_id: </b>97</LI><LI><b>k_template_is_clonable: </b>1</LI><LI><b>k_template_desc: </b></LI><LI><b>k_template_access_level: </b>0</LI><LI><b>k_template_is_commentable: </b>0</LI><LI><b>k_template_is_executable: </b>1</LI><LI><b>k_template_is_hidden: </b>0</LI><LI><b>k_template_order: </b>4</LI><LI><b>k_template_nested_pages: </b>0</LI><LI><b>k_template_gallery: </b>0</LI><LI><b>k_template_type: </b></LI><LI><b>k_template_link: </b>http://localhost/GenXCoders-CTO/ARMAN/select-sos.php</LI><LI><b>k_prettyurls: </b>0</LI><LI><b>k_site_charset: </b>utf-8</LI><LI><b>k_email_from: </b>genxcoders@gmail.com</LI><LI><b>k_email_to: </b>genxcoders@gmail.com</LI><LI><b>k_is_commentable: </b>0</LI><LI><b>k_is_list_page: </b>0</LI><LI><b>k_page_title: </b>Test 1</LI><LI><b>k_page_name: </b>test-1</LI><LI><b>k_page_folder_id: </b></LI><LI><b>k_publish_date: </b></LI><LI><b>k_access_level: </b>0</LI><LI><b>k_comments_open: </b>1</LI><LI><b>send_sos: </b></LI><LI><b>emp_sos: </b></LI><LI><b>fir_informer_name_submit: </b></LI><LI><b>sos_alarm: </b>1</LI><LI><b>sos_rad_status: </b>0</LI><LI><b>selectsos_chat: </b></LI><LI><b>selectsos_tracking: </b></LI><LI><b>tracking_id: </b></LI><LI><b>k_is_page: </b>1</LI><LI><b>k_is_list: </b>0</LI><LI><b>k_page_id: </b>2315</LI><LI><b>k_page_date: </b>2019-08-30 03:16:41</LI><LI><b>k_page_creation_date: </b>2019-08-30 03:16:41</LI><LI><b>k_page_modification_date: </b>2019-08-30 03:40:07</LI><LI><b>k_page_draft_of: </b>0</LI><LI><b>k_page_folderid: </b></LI><LI><b>k_page_foldername: </b></LI><LI><b>k_page_foldertitle: </b></LI><LI><b>k_page_folderdesc: </b></LI><LI><b>k_page_folderlink: </b></LI><LI><b>k_page_folderpagecount: </b></LI><LI><b>k_page_foldertotalpagecount: </b></LI><LI><b>k_comments_count: </b>0</LI><LI><b>k_page_link: </b>http://localhost/GenXCoders-CTO/ARMAN/select-sos.php?p=2315</LI><LI><b>k_count: </b>1</LI><LI><b>k_total_records: </b>1</LI><LI><b>k_total_records_for_pagination: </b>1</LI><LI><b>k_total_records_on_page: </b>1</LI><LI><b>k_current_record: </b>1</LI><LI><b>k_absolute_count: </b>1</LI><LI><b>k_record_from: </b>1</LI><LI><b>k_record_to: </b>1</LI><LI><b>k_total_pages: </b>1</LI><LI><b>k_current_page: </b>1</LI><LI><b>k_paginate_limit: </b>1</LI><LI><b>k_paginated_top: </b>1</LI><LI><b>k_paginated_bottom: </b>1</LI><LI><b>k_paginator_required: </b>0</LI><LI><b>k_paginate_link_next: </b></LI><LI><b>k_paginate_link_prev: </b></LI><LI><b>k_paginate_link_cur: </b></LI></UL></LI><LI><b><font color="red">related_pages</font></b><UL><LI><b>k_cms_version: </b>2.2RC1</LI><LI><b>k_cms_build: </b>20181213</LI><LI><b>k_admin_link: </b>http://localhost/GenXCoders-CTO/ARMAN/couch/</LI><LI><b>k_admin_page: </b></LI><LI><b>k_site_link: </b>http://localhost/GenXCoders-CTO/ARMAN/</LI><LI><b>k_admin_path: </b>D:/wamp64/www/GenXCoders-CTO/ARMAN/couch/</LI><LI><b>k_site_path: </b>D:/wamp64/www/GenXCoders-CTO/ARMAN/</LI><LI><b>k_template_routable: </b>0</LI><LI><b>k_template_title: </b>Tracking</LI><LI><b>k_template_name: </b>tracking/track.php</LI><LI><b>k_template_id: </b>78</LI><LI><b>k_template_is_clonable: </b>1</LI><LI><b>k_template_desc: </b></LI><LI><b>k_template_access_level: </b>0</LI><LI><b>k_template_is_commentable: </b>0</LI><LI><b>k_template_is_executable: </b>1</LI><LI><b>k_template_is_hidden: </b>0</LI><LI><b>k_template_order: </b>1</LI><LI><b>k_template_nested_pages: </b>0</LI><LI><b>k_template_gallery: </b>0</LI><LI><b>k_template_type: </b></LI><LI><b>k_template_link: </b>http://localhost/GenXCoders-CTO/ARMAN/tracking/track.php</LI><LI><b>k_prettyurls: </b>0</LI><LI><b>k_site_charset: </b>utf-8</LI><LI><b>k_email_from: </b>genxcoders@gmail.com</LI><LI><b>k_email_to: </b>genxcoders@gmail.com</LI><LI><b>k_is_commentable: </b>0</LI><LI><b>k_is_list_page: </b>0</LI><LI><b>k_page_title: </b>37 2315</LI><LI><b>k_page_name: </b>37-2315</LI><LI><b>k_page_folder_id: </b></LI><LI><b>k_publish_date: </b></LI><LI><b>k_access_level: </b>0</LI><LI><b>k_comments_open: </b>1</LI><LI><b>userid: </b></LI><LI><b>user_latitude: </b>10</LI><LI><b>user_longitude: </b>10</LI><LI><b>status: </b>1</LI><LI><b>sosid: </b></LI><LI><b>k_is_page: </b>1</LI><LI><b>k_is_list: </b>0</LI><LI><b>k_page_id: </b>2318</LI><LI><b>k_page_date: </b>2019-08-30 03:26:58</LI><LI><b>k_page_creation_date: </b>2019-08-30 03:26:58</LI><LI><b>k_page_modification_date: </b>2019-08-30 03:26:58</LI><LI><b>k_page_draft_of: </b>0</LI><LI><b>k_page_folderid: </b></LI><LI><b>k_page_foldername: </b></LI><LI><b>k_page_foldertitle: </b></LI><LI><b>k_page_folderdesc: </b></LI><LI><b>k_page_folderlink: </b></LI><LI><b>k_page_folderpagecount: </b></LI><LI><b>k_page_foldertotalpagecount: </b></LI><LI><b>k_comments_count: </b>0</LI><LI><b>k_page_link: </b>http://localhost/GenXCoders-CTO/ARMAN/tracking/track.php?p=2318</LI><LI><b>k_count: </b>1</LI><LI><b>k_total_records: </b>1</LI><LI><b>k_total_records_for_pagination: </b>1</LI><LI><b>k_total_records_on_page: </b>1</LI><LI><b>k_current_record: </b>1</LI><LI><b>k_absolute_count: </b>1</LI><LI><b>k_record_from: </b>1</LI><LI><b>k_record_to: </b>1</LI><LI><b>k_total_pages: </b>1</LI><LI><b>k_current_page: </b>1</LI><LI><b>k_paginate_limit: </b>1000</LI><LI><b>k_paginated_top: </b>1</LI><LI><b>k_paginated_bottom: </b>1</LI><LI><b>k_paginator_required: </b>0</LI><LI><b>k_paginate_link_next: </b></LI><LI><b>k_paginate_link_prev: </b></LI><LI><b>k_paginate_link_cur: </b></LI></UL></LI></UL>
+</body>
+</html>

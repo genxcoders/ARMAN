@@ -1,0 +1,13 @@
+<?php require_once( 'couch/cms.php' ); ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <cms:pages masterpage='users/index.php'>
+        <cms:dump />
+    </cms:pages>
+</body>
+</html>
+<?php COUCH::invoke(); ?>

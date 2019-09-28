@@ -1,0 +1,2275 @@
+
+=======================[2019-01-03 20:00:45]=======================
+From: contact@yourdomain.com
+To: aashish.h@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "aashish.h@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-04 21:47:06]=======================
+From: genxcoders@gmail.com
+To: priya@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "priya@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:22:26]=======================
+From: genxcoders@gmail.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "kalyani.k@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:24:13]=======================
+From: genxcoders@gmail.com
+To: satyajeet@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "satyajeet@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:26:24]=======================
+From: genxcoders@gmail.com
+To: sapana@genxsentinel.news
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "sapana@genxsentinel.news"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:28:56]=======================
+From: genxcoders@gmail.com
+To: anniruddha.r@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "anniruddha.r@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:40:04]=======================
+From: genxcoders@gmail.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "kalyani.k@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:43:43]=======================
+From: genxcoders@gmail.com
+To: priya@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "priya@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:46:17]=======================
+From: genxcoders@gmail.com
+To: aashish.h@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                            Welcome!
+		                            
+									Your username is: "aashish.h@genxcoders.in"
+									Your password is: "123456"
+
+									If you have questions or if you need further information please do not hesitate to contact us at any time!
+
+									Your Team
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 16:58:14]=======================
+From: genxcoders@gmail.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           <!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													position: relative;
+													min-height: 100%;
+												}	
+												body {
+													margin: 0;
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													margin-bottom: 50px;
+												}
+												.gxcpl-ptop-5 {
+													padding-top: 5px;
+												}
+												.gxcpl-ptop-10 {
+													padding-top: 10px;
+												}	
+												.gxcpl-ptop-20 {
+													padding-top: 20px;
+												}
+												.gxcpl-ptop-30 {
+													padding-top: 30px;
+												}
+												.gxcpl-ptop-40 {
+													padding-top: 40px;
+												}
+												.gxcpl-ptop-50 {
+													padding-top: 50px;
+												}
+												.gxcpl-site-container {
+													margin-top: 70px;
+												}
+												.gxcpl-shadow-2 {
+													box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+												}
+												.gxcpl-br-2 {
+													border-radius: 2px;
+												}
+												.gxcpl-bg-white {
+													background-color: #ffffff;
+												}
+												.gxcpl-fw-500 {
+													font-weight: 500;
+												}
+												.gxcpl-no-margin {
+													margin: 0px !important;
+												}
+												.gxcpl-padding-15 {
+													padding: 15px;
+												}
+												.gxcpl-divider-dark {
+													border-bottom: 1px solid rgba(0,0,0,0.25);
+												}
+												.center{
+													width: 55%;
+													height: 55%;
+													position: absolute;
+													margin: auto;
+													left: 0;
+													right: 0;
+													top: 0;
+													bottom: 0;
+												}
+
+												@media (min-width: 320px) and (max-width: 479px) {
+													.gxcpl-site-container {
+														margin-top: 40px;
+													}
+
+													img{
+														max-width: 70px;
+													}
+													.center{
+														width: 90%;
+														height: 90%;
+													}
+											</style>
+										</head>
+										<body>
+											<!-- Site Container -->
+											<div class="gxcpl-site-container">
+												<!-- Content Here -->
+												<div class="container">
+													<div class="row">
+														<div class="gxcpl-ptop-30"></div>
+														<div class="center" >
+															<div class="gxcpl-padding-15">
+																<div class="row">
+																	<!-- First Name -->
+																	<div class="col-md-12">
+																		<!-- Site Title -->
+																		<div class="container">
+																			<div class="row">
+																				<div class="col-md-1 col-sm-12 col-xs-12" >
+																					<img src="assets/images/Railway.png" style="margin: auto; display: block; width: 100px;" />
+																				</div>
+																				<div class="col-md-8 col-sm-12 col-xs-12">
+																					<h3 class="text-center gxcpl-fw-500 gxcpl-no-margin">
+																					<small>Central Railways'</small>
+																					<div class="text-center gxcpl-ptop-5"></div>
+																					Official Disaster Reporting and Management 	Application
+																					</h3>
+																				</div>
+																			</div>
+																		</div>
+																		<!-- Site Title -->
+																		<!-- Divider -->
+																		<div class="gxcpl-ptop-10"></div>
+																		<div class="gxcpl-divider-dark"></div>
+																		<div class="gxcpl-ptop-10"></div>
+																		<!-- Divider -->
+																		<div class="gxcpl-shadow-2 gxcpl-br-2 gxcpl-bg-white">
+																		<!-- Email Content -->
+																			<div style="padding: 5%;"><strong>Dear Firstname Lastname,</strong><br>
+																				We got a request to create a new account with your mobile number 1234567890 and email ID <a href="">kalyani.k@genxcoders.in</a>.<br>
+																				So, You have successfully registered your account at <a href="#">CR-ODRMA</a>. Your Ussername And Password is given below.<br>
+																				<div class="gxcpl-ptop-5"></div>
+																				<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+																				<div class="gxcpl-ptop-5"></div>
+																				<strong>Password:</strong>kalyani19<br>
+																				Thanks For using <a href="#">CR-ODRMA</a> Team.
+																			</div>
+																		</div>
+																		<!-- Email Content -->
+																		<div class="gxcpl-ptop-20"></div>
+																		<!-- Footer -->
+																		<div class="row">
+																			<h5 class="text-center"><strong>Available on</strong></h5>
+																			<div class="col-md-2 col-md-offset-4 col-xs-offset-2 col-sm-6 col-xs-4">
+																				<img src="assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 100px; height: auto; margin-left: 8%;">
+																			</div>
+																			<div class="col-md-2 col-sm-6 col-xs-6">
+																				<img src="assets/images/Central-Railway-html-generators-genxcoders-pvt-ltd-gxcpl.png" style="width: 25px; margin-top:4px; height: auto;">
+																			</div>
+																			<div class="gxcpl-ptop-50"></div>
+																			<div class="col-md-8 col-md-offset-2">
+																				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+																			</div>
+																		</div>
+																		<!-- Footer -->
+																	</div>
+																</div>
+															</div>
+														</div>
+														<!-- Section Divider -->
+														<div class="gxcpl-ptop-10"></div>
+														<!-- <div class="gxcpl-divider-dark"></div> -->
+														<div class="gxcpl-ptop-10"></div>
+														<!-- Section Divider -->
+													</div>
+												</div>
+												<!-- Content Here -->
+											</div>
+											<!-- Site Container -->
+											<!-- Scripts -->
+											<script type="text/javascript" src="assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="assets/js/bootstrap.js"></script>
+											<!-- Scripts -->
+										</body>
+									</html>
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 17:17:11]=======================
+From: genxcoders@gmail.com
+To: aashish.h@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           <!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="http://localhost/GenXCoders-CTO/DMA-Design/assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="http://localhost/GenXCoders-CTO/DMA-Design/assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													position: relative;
+													min-height: 100%;
+												}	
+												body {
+													margin: 0;
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													margin-bottom: 50px;
+												}
+												.gxcpl-ptop-5 {
+													padding-top: 5px;
+												}
+												.gxcpl-ptop-10 {
+													padding-top: 10px;
+												}	
+												.gxcpl-ptop-20 {
+													padding-top: 20px;
+												}
+												.gxcpl-ptop-30 {
+													padding-top: 30px;
+												}
+												.gxcpl-ptop-40 {
+													padding-top: 40px;
+												}
+												.gxcpl-ptop-50 {
+													padding-top: 50px;
+												}
+												.gxcpl-site-container {
+													margin-top: 70px;
+												}
+												.gxcpl-shadow-2 {
+													box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+												}
+												.gxcpl-br-2 {
+													border-radius: 2px;
+												}
+												.gxcpl-bg-white {
+													background-color: #ffffff;
+												}
+												.gxcpl-fw-500 {
+													font-weight: 500;
+												}
+												.gxcpl-no-margin {
+													margin: 0px !important;
+												}
+												.gxcpl-padding-15 {
+													padding: 15px;
+												}
+												.gxcpl-divider-dark {
+													border-bottom: 1px solid rgba(0,0,0,0.25);
+												}
+												.center{
+													width: 55%;
+													height: 55%;
+													position: absolute;
+													margin: auto;
+													left: 0;
+													right: 0;
+													top: 0;
+													bottom: 0;
+												}
+
+												@media (min-width: 320px) and (max-width: 479px) {
+													.gxcpl-site-container {
+														margin-top: 40px;
+													}
+
+													img{
+														max-width: 70px;
+													}
+													.center{
+														width: 90%;
+														height: 90%;
+													}
+											</style>
+										</head>
+										<body>
+											<!-- Site Container -->
+											<div class="gxcpl-site-container">
+												<!-- Content Here -->
+												<div class="container">
+													<div class="row">
+														<div class="gxcpl-ptop-30"></div>
+														<div class="center" >
+															<div class="gxcpl-padding-15">
+																<div class="row">
+																	<!-- First Name -->
+																	<div class="col-md-12">
+																		<!-- Site Title -->
+																		<div class="container">
+																			<div class="row">
+																				<div class="col-md-1 col-sm-12 col-xs-12" >
+																					<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: auto; display: block; width: 100px;" />
+																				</div>
+																				<div class="col-md-8 col-sm-12 col-xs-12">
+																					<h3 class="text-center gxcpl-fw-500 gxcpl-no-margin">
+																					<small>Central Railways'</small>
+																					<div class="text-center gxcpl-ptop-5"></div>
+																					Official Disaster Reporting and Management 	Application
+																					</h3>
+																				</div>
+																			</div>
+																		</div>
+																		<!-- Site Title -->
+																		<!-- Divider -->
+																		<div class="gxcpl-ptop-10"></div>
+																		<div class="gxcpl-divider-dark"></div>
+																		<div class="gxcpl-ptop-10"></div>
+																		<!-- Divider -->
+																		<div class="gxcpl-shadow-2 gxcpl-br-2 gxcpl-bg-white">
+																		<!-- Email Content -->
+																			<div style="padding: 5%;"><strong>Dear Firstname Lastname,</strong><br>
+																				We got a request to create a new account with your mobile number 1234567890 and email ID <a href="">kalyani.k@genxcoders.in</a>.<br>
+																				So, You have successfully registered your account at <a href="#">CR-ODRMA</a>. Your Ussername And Password is given below.<br>
+																				<div class="gxcpl-ptop-5"></div>
+																				<strong>Username:</strong>aashish.h@genxcoders.in<br>
+																				<div class="gxcpl-ptop-5"></div>
+																				<strong>Password:</strong>aashish<br>
+																				Thanks For using <a href="#">CR-ODRMA</a> Team.
+																			</div>
+																		</div>
+																		<!-- Email Content -->
+																		<div class="gxcpl-ptop-20"></div>
+																		<!-- Footer -->
+																		<div class="row">
+																			<h5 class="text-center"><strong>Available on</strong></h5>
+																			<div class="col-md-2 col-md-offset-4 col-xs-offset-2 col-sm-6 col-xs-4">
+																				<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 100px; height: auto; margin-left: 8%;">
+																			</div>
+																			<div class="col-md-2 col-sm-6 col-xs-6">
+																				<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-html-generators-genxcoders-pvt-ltd-gxcpl.png" style="width: 25px; margin-top:4px; height: auto;">
+																			</div>
+																			<div class="gxcpl-ptop-50"></div>
+																			<div class="col-md-8 col-md-offset-2">
+																				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+																			</div>
+																		</div>
+																		<!-- Footer -->
+																	</div>
+																</div>
+															</div>
+														</div>
+														<!-- Section Divider -->
+														<div class="gxcpl-ptop-10"></div>
+														<!-- <div class="gxcpl-divider-dark"></div> -->
+														<div class="gxcpl-ptop-10"></div>
+														<!-- Section Divider -->
+													</div>
+												</div>
+												<!-- Content Here -->
+											</div>
+											<!-- Site Container -->
+											<!-- Scripts -->
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											<!-- Scripts -->
+										</body>
+									</html>
+									http://localhost/GenXCoders-CTO/DMA-Design/		                        
+
+Delivery Failed
+
+=======================[2019-01-05 18:45:32]=======================
+From: genxcoders@gmail.com
+To: pawan@genxsentinel.news
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 100%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: inline-block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-05 19:52:42]=======================
+From: genxcoders@gmail.com
+To: sapana@genxsentinel.news
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:09:47]=======================
+From: genxcoders@gmail.com
+To: adrm@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:16:24]=======================
+From: genxcoders@gmail.com
+To: adrn2@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:18:19]=======================
+From: genxcoders@gmail.com
+To: aashish.h@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:20:38]=======================
+From: genxcoders@gmail.com
+To: aashish.h@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:22:25]=======================
+From: genxcoders@gmail.com
+To: priya@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:23:46]=======================
+From: genxcoders@gmail.com
+To: aashish.h@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:24:13]=======================
+From: genxcoders@gmail.com
+To: priya@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:24:46]=======================
+From: genxcoders@gmail.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:28:56]=======================
+From: genxcoders@gmail.com
+To: sapana@genxsentinel.news
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-08 21:29:50]=======================
+From: genxcoders@gmail.com
+To: pawan@genxsentinel.news
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-09 15:02:34]=======================
+From: genxcoders@gmail.com
+To: chanchal.t@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-01-09 21:19:21]=======================
+From: genxcoders@gmail.com
+To: asd@asd.asd
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-02-13 23:32:34]=======================
+From: genxcoders@gmail.com
+To: kalyani.kherde@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-03-06 19:40:23]=======================
+From: genxcoders@gmail.com
+To: fg@jj.vb
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>Central Railways'</small><br/>
+													Official Disaster Reporting and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+													<strong>Dear Firstname Lastname,</strong><br><br/>
+													Your account has been successfully created on <strong>Central Railways' Official Disaster Reporting and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>1234567890</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong>kalyani19<br>
+													</div>
+													<br />
+
+													Welcome to the CR-ODRMA.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-03-22 17:31:28]=======================
+From: genxcoders@gmail.com
+To: ashish.genxcoders@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>ARMAN</small><br/>
+													Accident Report and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+																										<strong>Dear Aashish Handa,</strong><br><br/>
+													Your account has been successfully created on <strong>ARMAN Accident Report and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>8983679491</strong> and email id <strong>ashish.genxcoders@gmail.com</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>ashish.genxcoders@gmail.com<br>
+														<strong>Password:</strong><br>
+													</div>
+													<br />
+																										Welcome to the ARMAN.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-03-22 17:32:13]=======================
+From: genxcoders@gmail.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>ARMAN</small><br/>
+													Accident Report and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+																										<strong>Dear Aashish Handa,</strong><br><br/>
+													Your account has been successfully created on <strong>ARMAN Accident Report and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>8983679491</strong> and email id <strong>ashish.genxcoders@gmail.com</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>ashish.genxcoders@gmail.com<br>
+														<strong>Password:</strong><br>
+													</div>
+													<br />
+																										Welcome to the ARMAN.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-03-22 17:33:19]=======================
+From: genxcoders@gmail.com
+To: priya.genxcoders@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>ARMAN</small><br/>
+													Accident Report and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+																										<strong>Dear Kalyani Kherde,</strong><br><br/>
+													Your account has been successfully created on <strong>ARMAN Accident Report and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>9175969750</strong> and email id <strong>kalyani.k@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>kalyani.k@genxcoders.in<br>
+														<strong>Password:</strong><br>
+													</div>
+													<br />
+																										Welcome to the ARMAN.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-03-31 16:42:31]=======================
+From: genxcoders@gmail.com
+To: asd@asd.asd
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>ARMAN</small><br/>
+													Accident Report and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+																										<strong>Dear Super Admin,</strong><br><br/>
+													Your account has been successfully created on <strong>ARMAN Accident Report and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>8983679491</strong> and email id <strong>aashish@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>aashish@genxcoders.in<br>
+														<strong>Password:</strong><br>
+													</div>
+													<br />
+																										Welcome to the ARMAN.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-03-31 16:50:35]=======================
+From: genxcoders@gmail.com
+To: admin@admin.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>ARMAN</small><br/>
+													Accident Report and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+																										<strong>Dear Super Admin,</strong><br><br/>
+													Your account has been successfully created on <strong>ARMAN Accident Report and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>8983679491</strong> and email id <strong>aashish@genxcoders.in</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>aashish@genxcoders.in<br>
+														<strong>Password:</strong><br>
+													</div>
+													<br />
+																										Welcome to the ARMAN.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-03-31 18:13:28]=======================
+From: genxcoders@gmail.com
+To: user@arman.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>ARMAN</small><br/>
+													Accident Report and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+																										<strong>Dear Authenticated User,</strong><br><br/>
+													Your account has been successfully created on <strong>ARMAN Accident Report and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>9175969750</strong> and email id <strong>user@arman.com</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>user@arman.com<br>
+														<strong>Password:</strong><br>
+													</div>
+													<br />
+																										Welcome to the ARMAN.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/DMA-Design/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/DMA-Design/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
+
+=======================[2019-06-16 14:45:29]=======================
+From: genxcoders@gmail.com
+To: user2@arman.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Subject: New Account Confirmation
+Message: 		                           	<!DOCTYPE html>
+									<html>
+										<head>
+											<meta charset="UTF-8">
+											<meta name="description" content="Free Web tutorials">
+											<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+											<meta name="author" content="John Doe">
+											<meta name="viewport" content="width=device-width, initial-scale=1.0">
+											<title>DMA: Page Title</title>
+											<!-- CSS -->
+											<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+											<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+											<!-- CSS -->
+											<style type="text/css">
+												html {
+													min-height: 100%;
+												}			
+												body {
+													padding: 0;
+													font-family: 'Raleway', sans-serif;
+													background-color: rgba(0,0,0,0.08);
+													font-size: 13px;
+													color: #212121;
+													width: 95%;
+													/*overflow: hidden;*/
+													margin: auto;
+													display: block;				
+												}
+											</style>
+										</head>
+										<body>
+											<div style="width: 90%; min-height: 570px; height: auto; border-radius: 2px; background-color: #ffffff; box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); margin: 30px auto; display: block; padding: 5px 10px;">
+												<img src="http://localhost/GenXCoders-CTO/ARMAN/assets/images/Railway.png" style="margin: 10px auto 20px auto; display: block; width: 100px;" />
+												<h3 style="text-align: center; margin: 0px;">
+													<small>ARMAN</small><br/>
+													Accident Report and Management Application
+												</h3>
+												<div style="text-align: justify; padding-top: 30px;">
+																										<strong>Dear User Two,</strong><br><br/>
+													Your account has been successfully created on <strong>ARMAN Accident Report and Management Application</strong>. According to the information available with us, your registered mobile number is <strong>8983044369</strong> and email id <strong>user2@arman.com</strong>.<br><br/>
+													Your username and password is as given below.<br>
+													<div style="text-align: center;">
+														<strong>Username:</strong>user2@arman.com<br>
+														<strong>Password:</strong><br>
+													</div>
+													<br />
+																										Welcome to the ARMAN.
+													<br/>
+													<br/>
+													To download this official application click the <em>Play Store</em> logo below
+													<br />
+													<br />
+													<a href="#!">
+														<img src="http://localhost/GenXCoders-CTO/ARMAN/assets/images/Central-Railway-googleplay-genxcoders-pvt-ltd-gxcpl.png" style="width: 200px; margin: auto; display: block; z-index: 9999;" />
+													</a>
+													<br>
+													<small><div style="text-align: center;"><em>Secured email service provided by <strong><a style="color: #212121" target="_blank" href="https://www.gxcpl.com">GenXCoders Pvt Ltd</a></strong></em></div></small>
+												</div>
+											</div>		
+											
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/ARMAN/assets/js/jquery-1.11.1.js"></script>
+											<script type="text/javascript" src="http://localhost/GenXCoders-CTO/ARMAN/assets/js/bootstrap.js"></script>
+											
+										</body>
+									</html>
+		                        
+
+Delivery Failed
